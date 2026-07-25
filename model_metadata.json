@@ -1,0 +1,41 @@
+{
+  "feature_names": [
+    "carat",
+    "cut",
+    "color",
+    "clarity",
+    "depth_percent",
+    "table",
+    "length_mm",
+    "width_mm",
+    "depth_mm"
+  ],
+  "r2_score": 0.9823003303892701,
+  "cut_order": [
+    "Fair",
+    "Good",
+    "Very Good",
+    "Premium",
+    "Ideal"
+  ],
+  "color_order": [
+    "J",
+    "I",
+    "H",
+    "G",
+    "F",
+    "E",
+    "D"
+  ],
+  "clarity_order": [
+    "I1",
+    "SI2",
+    "SI1",
+    "VS2",
+    "VS1",
+    "VVS2",
+    "VVS1",
+    "IF"
+  ],
+  "training_rows": 53772
+}
